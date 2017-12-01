@@ -1,1 +1,2 @@
-project description is needed for general information regarding the project
+This is my first git commit and program also.
+Banking system 
